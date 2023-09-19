@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Benne', serif;
+}
+.top{
+    background-color: rgb(61, 6, 6);
+}
+.nev-1{
+    text-align: right;
+}
+.nav-item{
+    color: white;
+    text-align: right;
+    font-size: 240;
+    display: inline-block;
+    font-weight: bold;
+    margin-left: 20;
+    text-transform: uppercase;
+    padding: 5px;
+}
+.nav-item:hover{
+    background-color: rgba(139, 136, 136, 0.445);
+}
+.nav-link{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+.home{
+    background-color: white;
+    box-sizing: inherit;
+   
+}
+.home-2{
+    display: flex;
+    padding: 25px;
+}
+.home-3{
+    text-align:initial;
+    width: 30%;
+    color: black;
+}
+.Nafi{
+    color: red;
+}
+.photo-1{
+    width: 30%;
+    height: 20%;
+    margin-left: 70%;
+}
+.img{
+    width: 5opx;
+}
+.about{
+    background-color: rgb(190, 190, 190);
+    box-sizing: inherit;
+}
+.about-2{
+    display: flex;
+    padding: 30px;
+}
+.photo2{
+    width: 35%;
+    height: 70%;
+    margin-right: 50%;
+}
+.about-3{
+    text-align:initial;
+    width: 50%;
+    border: white 1px;
+}
+.num2{
+    color: red;
+}
+.project{
+    text-align: center;
+    background-color: rgb(61, 6, 6);
+    color: white;
+}
+.product-row{
+    display: flex;
+    padding: 10px;
+    background-color: rgb(247, 241, 238);
+}
+.product{
+    text-align: center;
+    border: 1px solid rgb(14, 1, 1);
+    width: 30%;
+    margin-left: 2%;
+    padding: 10px;
+}
+img{
+    width: 100%;
+}
+.footer-text{
+    padding: 50px;
+    text-align: center;
+    background-color: rgb(61, 6, 6);
+    color:white;
+}
+img{
+    width: 100%;
+}
